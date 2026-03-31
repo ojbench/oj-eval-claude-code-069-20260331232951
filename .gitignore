@@ -4,3 +4,4 @@ cmake_install.cmake
 *.o
 code
 test_local
+test_*.py
